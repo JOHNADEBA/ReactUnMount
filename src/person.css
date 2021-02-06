@@ -1,0 +1,14 @@
+.queue {
+    border: 2px solid black;
+    flex: 1 0 50px;
+}
+.person-name {
+    padding: 5px;
+    background-color: #bbb;
+    border-bottom: 1px solid black;
+}
+.person-task {
+    padding: 5px;
+    border-top: 1px solid black;
+}
+
